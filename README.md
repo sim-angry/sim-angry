@@ -9,7 +9,7 @@
 ![image](https://github.com/user-attachments/assets/dad10887-84bd-439e-b7fa-a5131f2910de)
 <br>
 <br>
-![image](https://github.com/user-attachments/assets/a4e277f0-2c85-45ba-8ff8-f10b3612d7e8)
+![image](https://github.com/user-attachments/assets/6ad7f6aa-8e5d-4bbe-85ed-40859f18bc13)
 <br>
 <br>
 3. 메인화면
@@ -50,7 +50,7 @@
 <br>
 <br>
 
-![image](https://github.com/user-attachments/assets/5ed1b073-790b-4827-8ccc-051857f0a137)
+![image](https://github.com/user-attachments/assets/c2e97278-a2c3-4763-8a8f-434e2623cbc9)
 <br>
 <br>
 
