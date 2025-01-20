@@ -8,9 +8,7 @@
 <br>
 <br>
 2. 데이터베이스를 구축하기 전 Draw.io에서 ERD로 데이터베이스를 모델링 하였다.
-![image](https://github.com/user-attachments/assets/d4888195-b498-4988-888c-45d2a14f21ab)
-
-
-
 ![image](https://github.com/user-attachments/assets/288ba002-107b-4784-b8e5-d69d79ea1230)
+<br>
+<br>
 
