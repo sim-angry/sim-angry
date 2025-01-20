@@ -4,15 +4,12 @@
 <br>
 <br>
 ![image](https://github.com/user-attachments/assets/3eb1bd84-0548-4567-84ac-c882d96570a1)
-
-
-1. 소프트웨어 개발에 들어가기 앞서 요구사항을 USCASE로 먼저 만들어본다.
-![image](https://github.com/user-attachments/assets/2b666f28-0e38-43d5-b48e-f00392de9636)
 <br>
 <br>
-2. 데이터베이스를 구축하기 전 Draw.io에서 ERD로 데이터베이스를 모델링 하였다.
-
-![image](https://github.com/user-attachments/assets/288ba002-107b-4784-b8e5-d69d79ea1230)
+![image](https://github.com/user-attachments/assets/fbc7c480-95ce-4b23-bd8d-39347638dbfd)
+<br>
+<br>
+![image](https://github.com/user-attachments/assets/a4e277f0-2c85-45ba-8ff8-f10b3612d7e8)
 <br>
 <br>
 3. 메인화면
