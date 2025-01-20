@@ -47,12 +47,7 @@
 ![image](https://github.com/user-attachments/assets/d257f05d-bc1f-4f1d-af54-0b0648dfa143)
 <br>
 <br>
-10. 핵심기능
-
-1. 로그인 : 회원아이디, 페스워드 조회 및 수정, 회원가입 기능추가
-2. 숙박예약 : 예약, 수정, 삭제, 결제기능 추가
-3. 렌터카예약 : 예약, 수정, 삭제, 결제기능 추가
-4. 게시판 : 문의하기, 숙박후기 등록, 수정, 삭제 기능 추가
+![image](https://github.com/user-attachments/assets/5ed1b073-790b-4827-8ccc-051857f0a137)
 <br>
 <br>
 
