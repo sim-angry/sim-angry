@@ -13,4 +13,5 @@
 <br>
 <br>
 3. 메인화면
+
 ![메인화면](https://github.com/user-attachments/assets/a9225bad-cc72-4b45-94e0-ca46085cc8ec)
