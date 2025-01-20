@@ -12,4 +12,5 @@
 ![image](https://github.com/user-attachments/assets/288ba002-107b-4784-b8e5-d69d79ea1230)
 <br>
 <br>
-
+3. 메인화면
+![메인화면](https://github.com/user-attachments/assets/a9225bad-cc72-4b45-94e0-ca46085cc8ec)
