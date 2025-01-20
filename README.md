@@ -43,7 +43,8 @@
 <br>
 <br>
 9. 문의하기/숙박후기
-
+<br>
+<br>
 ![image](https://github.com/user-attachments/assets/d257f05d-bc1f-4f1d-af54-0b0648dfa143)
 <br>
 <br>
@@ -51,6 +52,5 @@
 <br>
 <br>
 
-![image](https://github.com/user-attachments/assets/a4fcb402-e417-4398-a3c6-56717e3737b9)
 
 
